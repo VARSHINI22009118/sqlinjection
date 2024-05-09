@@ -20,6 +20,11 @@ Investigate on the various categories of tools as follows:
 Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
+```
+NAME: VARSHINI S A
+REGISTER NO : 212222100059
+```
+
 SQL Injection is a sort of infusion assault that makes it conceivable to execute malicious SQL statements. These statements control a database server behind a web application. Assailants can utilize SQL Injection vulnerabilities to sidestep application safety efforts. They can circumvent authentication and authorization of a page or web application and recover the content of the whole SQL database. 
 
 
